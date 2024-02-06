@@ -10,8 +10,8 @@
 <br>
  <a href="https://www.instagram.com/figueiredorv/">(@figueiredorv)</a>.</p>
 <!--
-[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
-[![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
+[![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://figueredorv.github.io/)
+[![GitHub Page](https://img.shields.io/badge/figueredorv.github.io-67136f?style=for-the-badge)](https://figueredorv.github.io/)
 -->
 <h3 align="left">Connect with me</h3>
 
@@ -21,8 +21,8 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elidianaandrade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elidianaandrade&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/elidianaandrade/github-readme-stats)-->
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=figueredorv&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+<!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=figueredorv&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/figueredorv/github-readme-stats)-->
 <br>
 
 <details align="left">
@@ -32,6 +32,6 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">Ruan Victor Figueredo</a>.</div>
+  <div align="right">Made with 💜 by <a href="https://github.com/figueredorv">Ruan Victor Figueredo</a>.</div>
 
 </details>
