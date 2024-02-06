@@ -8,7 +8,7 @@
 
 <p align="justify">Meu nome é Ruan e desde cedo nutro uma paixão pela tecnologia. Minha jornada na programação começou explorando linguagens e desenvolvendo programas por conta própria. Buscando aprimorar minhas habilidades, optei por uma formação superior em Análise e Desenvolvimento de Sistemas, visando entender melhor os princípios da engenharia de software. Com domínio em diversas tecnologias, como HTML, CSS, JavaScript, PHP, Laravel, Git, GitHub e Flutter, estou sempre em busca de desafios para expandir meus conhecimentos e aplicá-los de forma criativa e eficaz. 
 <br>
- <a href="https://www.instagram.com/figueiredorv/">(@elicosmaker)</a>.</p>
+ <a href="https://www.instagram.com/figueiredorv/">(@figueiredorv)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
