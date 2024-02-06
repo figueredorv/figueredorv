@@ -8,7 +8,7 @@
 
 <p align="justify">Meu nome é Ruan e desde cedo nutro uma paixão pela tecnologia. Minha jornada na programação começou explorando linguagens e desenvolvendo programas por conta própria. Buscando aprimorar minhas habilidades, optei por uma formação superior em Análise e Desenvolvimento de Sistemas, visando entender melhor os princípios da engenharia de software. Com domínio em diversas tecnologias, como HTML, CSS, JavaScript, PHP, Laravel, Git, GitHub e Flutter, estou sempre em busca de desafios para expandir meus conhecimentos e aplicá-los de forma criativa e eficaz. 
 <br>
- Passionate about arts and technology, some of my hobbies are games, watching, reading, and making cosplay accessories <a href="https://www.instagram.com/elicosmaker/">(@elicosmaker)</a>.</p>
+ <a href="https://www.instagram.com/figueiredorv/">(@elicosmaker)</a>.</p>
 <!--
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=FF00F6)](https://elidianaandrade.github.io/)
 [![GitHub Page](https://img.shields.io/badge/elidianaandrade.github.io-67136f?style=for-the-badge)](https://elidianaandrade.github.io/)
@@ -32,6 +32,6 @@
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
  
-  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">Ruan Victor Figueredo</a>.</div>
 
 </details>
